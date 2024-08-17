@@ -39,7 +39,6 @@ Since the linear models did not provide a good fit, the Multivariate Adaptive Re
 ![imagen](https://github.com/user-attachments/assets/7f084d88-95d4-49ab-9b75-ad03efb62d5e)
 
 
-
 **5. Model Evaluation**
 
 The final model was evaluated using an independent test dataset. Error metrics such as RMSE and MAE were calculated to quantify the model's accuracy.
