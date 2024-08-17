@@ -36,6 +36,9 @@ Since the linear models did not provide a good fit, the Multivariate Adaptive Re
 **4. Cross-Validation**
 
 10-fold cross-validation was applied to evaluate the performance of the MARS models and select the best combination of parameters. The best model obtained has degree = 3 and nprune = 10.
+![imagen](https://github.com/user-attachments/assets/7f084d88-95d4-49ab-9b75-ad03efb62d5e)
+
+
 
 **5. Model Evaluation**
 
